@@ -1,2 +1,2 @@
 # Cornucopia
-A cornucopia of my files
+A cornucopia of files
